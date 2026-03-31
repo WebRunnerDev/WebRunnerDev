@@ -6,9 +6,9 @@ I build web applications with a focus on clean architecture and intuitive interf
 
 ---
 
-### Tech Stack I Work With
+## Tech Stack I Work With
 
-#### Front-End
+### Front-End
 
 ![React](https://img.shields.io/badge/-React-000000?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
@@ -27,7 +27,7 @@ I build web applications with a focus on clean architecture and intuitive interf
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcn/ui)
 ![ReactBits](https://img.shields.io/badge/ReactBits-000000?logo=reactbits)
 
-#### Back-End
+### Back-End
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
@@ -35,7 +35,7 @@ I build web applications with a focus on clean architecture and intuitive interf
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000000?logo=redis)
 
-#### QA
+### QA
 
 ![Postman](https://img.shields.io/badge/-Postman-000000?logo=postman)
 ![Jest](https://img.shields.io/badge/-Jest-000000?logo=jest)
@@ -49,6 +49,6 @@ I build web applications with a focus on clean architecture and intuitive interf
 
 ---
 
-### How to reach me
+## How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?logo=telegram)](https://t.me/WebRunner_dev)
